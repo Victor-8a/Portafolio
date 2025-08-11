@@ -5,7 +5,7 @@ export const Footer = () => {
     const anioActual = new Date().getFullYear();
   return (
     <footer className='footer'>
-      Portafolio Hugo Corado /copy; - {anioActual}
+      Portafolio Victor Ochoa/copy; - {anioActual}
     </footer>
   )
 }
